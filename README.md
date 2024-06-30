@@ -11,6 +11,7 @@ The app uses a custom simplified VIPER architecture.
 - Fetch and display current weather data for any location.
 - User-friendly interface designed with UIKit.
 - Universal App
+- Languages: English and Portuguese(Brazil)
 
 ## Requirements
 
