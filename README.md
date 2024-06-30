@@ -3,7 +3,7 @@
 WeatherApp is a simple iOS application built with Swift and UIKit that provides current weather information. 
 The app uses a custom simplified VIPER architecture.
 
-<img width="80%" align="left" alt="Github" src="https://github.com/joseasync/WeatherApp/blob/main/Usage.gif" />
+<img width="100%" alt="Github" src="https://github.com/joseasync/WeatherApp/blob/main/Usage.gif" />
 .
 
 ## Features
