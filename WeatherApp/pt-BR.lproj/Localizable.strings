@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Jose Cruz on 30/06/2024.
+  
+*/
+// MARK: WeatherVC
+"VIEW_TITLE" = "Weather App";
+
+
+"ALERT_TITLE_SUCCESS" = "Detalhes do Clima";
+"DESCRIPTION_DISPLAYING_WEATHER" = "Mostrando Clima de ";
+"DESCRIPTION_REGION" = "\n\nRegião: ";
+"DESCRIPTION_TEMPERATURE" = "\nTemperatura: ";
+"DESCRIPTION_CONDITION" = "\nCondições: ";
+
+
+// MARK: Weather View
+"SEARCH_PLACEHOLDER" = "Buscar Clima";
+
+
+
+// MARK: General
+"ERROR_UNEXPECTED" = "Erro inesperado.";
+"ERROR_INVALID_URL" = "Url inválida.";
+"ERROR_INVALID_LOCATION" = "Localização Inválida.";
+"ERROR_INVALID_DATA" = "Dados inválidos, por favor verifique o servidor.";
+"ERROR_INVALID_RESPONSE" = "Response inválido, por favor verifique o servidor.";
+
+
+"CANCEL" = "Cancelar";
+"OK" = "Ok";
+"ERROR" = "Erro";

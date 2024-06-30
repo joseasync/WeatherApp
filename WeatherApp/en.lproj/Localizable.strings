@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Jose Cruz on 30/06/2024.
+  
+*/
+// MARK: WeatherVC
+"VIEW_TITLE" = "Weather App";
+
+"ALERT_TITLE_SUCCESS" = "Weather Details";
+"DESCRIPTION_DISPLAYING_WEATHER" = "Displaying weather for ";
+"DESCRIPTION_REGION" = "\n\nRegion: ";
+"DESCRIPTION_TEMPERATURE" = "\nTemperature: ";
+"DESCRIPTION_CONDITION" = "\nCondition: ";
+
+// MARK: Weather View
+
+"SEARCH_PLACEHOLDER" = "Search Weather";
+
+
+
+
+
+// MARK: General
+
+
+
+"ERROR_UNEXPECTED" = "Unexpected Error.";
+"ERROR_INVALID_URL" = "Invalid Url.";
+"ERROR_INVALID_LOCATION" = "Invalid location.";
+"ERROR_INVALID_DATA" = "Invalid Data, please check the Server.";
+"ERROR_INVALID_RESPONSE" = "Invalid Response, please check the Server.";
+
+
+"CANCEL" = "Cancel";
+"OK" = "Ok";
+"ERROR" = "Error";
+
